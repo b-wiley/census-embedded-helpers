@@ -1,5 +1,3 @@
-# INTERNAL USE ONLY
-
 # This script is meant to serve as a demo application to perform the following functions in a matter of seconds:
 # 1) Grab Source ID in workspace
 # 2) Grab Destination ID in workspace
